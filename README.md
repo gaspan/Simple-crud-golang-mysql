@@ -1,7 +1,7 @@
 #How to Run this Web
 
--create db wich name is goblog
-- create table :
+- create db wich name is goblog
+- create table :  <br />
 DROP TABLE IF EXISTS `employee`;
 CREATE TABLE `employee` (
   `id` int(6) unsigned NOT NULL AUTO_INCREMENT,
